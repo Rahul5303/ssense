@@ -26,6 +26,8 @@ Above stack percentage is calculated by GitHub it may be different when we updat
 
 # Users can Search different Category![Screenshot (763)](https://user-images.githubusercontent.com/101010104/192707482-c29627a8-2342-4813-a03d-f610ea2274e9.png)
 
- # nelify link:https://adorable-bienenstitch-4d5396.netlify.app
+ # Netlify :
+ link:https://adorable-bienenstitch-4d5396.netlify.app
 
- # Demo video link:https://drive.google.com/file/d/1XHSMM7K67qDWfxz3wNgxtWbCpBbiIYla/view?usp=sharing
+ # Demo video link:
+ https://drive.google.com/file/d/1XHSMM7K67qDWfxz3wNgxtWbCpBbiIYla/view?usp=sharing
