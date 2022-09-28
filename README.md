@@ -7,7 +7,7 @@ Hello Everyone, We are building a clone of SSENSE. Currently, I am pursuing the 
 
 Shop designer fashion. Fast shipping & easy returns. Trending & sought-after styles. Enjoy access to limited-release streetwear collections and rare sneaker drops. More Than 500 Designers. Fast Worldwide Shipping. Exclusive Collections. Secure & Easy Checkout.
 
-#Tech Stacks Used for Cloning Website By Us:
+# Tech Stacks Used for Cloning Website By Us:
 HTML : 38.4%
 
 CSS : 21.2%
