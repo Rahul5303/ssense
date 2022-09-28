@@ -1,4 +1,4 @@
-# ssense
+# SSENSE
 # Construct Week of Unit-3 | Project-SSENSE
 
 Hello Everyone, We are building a clone of SSENSE. Currently, I am pursuing the Full Stack Web Development course at Masai School. I am in last week of unit 3 which is known by construct week . In this week we build the clone of SSENSE which is given by Masai School .
@@ -28,6 +28,6 @@ Above stack percentage is calculated by GitHub it may be different when we updat
 
 # Users can Search different Category![Screenshot (763)](https://user-images.githubusercontent.com/101010104/192707482-c29627a8-2342-4813-a03d-f610ea2274e9.png)
 
-nelify link:https://adorable-bienenstitch-4d5396.netlify.app
+ # nelify link:https://adorable-bienenstitch-4d5396.netlify.app
 
-demo video link:https://drive.google.com/file/d/1XHSMM7K67qDWfxz3wNgxtWbCpBbiIYla/view?usp=sharing
+ # Demo video link:https://drive.google.com/file/d/1XHSMM7K67qDWfxz3wNgxtWbCpBbiIYla/view?usp=sharing
