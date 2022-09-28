@@ -16,7 +16,11 @@ JavaScript : 40.4%
 
 Above stack percentage is calculated by GitHub it may be different when we updated something.
 
-Some Glimpse and Screenshots of our Website:
+# Some Glimpse and Screenshots of our Website:
+
+# HomePage of our Website :
+
+
 
 nelify link:https://adorable-bienenstitch-4d5396.netlify.app
 demo video link:https://drive.google.com/file/d/1XHSMM7K67qDWfxz3wNgxtWbCpBbiIYla/view?usp=sharing
